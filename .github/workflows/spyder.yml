@@ -33,6 +33,6 @@ jobs:
       with:
         name: crawler-results
         path: |
-          static.csv
-          static.json
-          api.csv
+          ./static.csv
+          ./static.json
+          ./api.csv
